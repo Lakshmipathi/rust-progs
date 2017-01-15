@@ -1,5 +1,5 @@
-                   ## rust-progs 
-           ###Small collection of Rust programs.
+##                      rust-progs 
+###        Small collection of Rust programs
 
 ### How to compile Rust?
 Assume you have rustc installed. Just go ahead type:
@@ -12,5 +12,6 @@ It will create executable named `0001_hello_world`.
 
        `$./0001_hello_world`
 
-Credits: 
+###Credits: 
+
 Lakshmipathi.G  <lakshmipathi.g@giis.co.in> (Its me :P)
