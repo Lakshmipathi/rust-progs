@@ -1,4 +1,5 @@
-rust-progs : Small collection of Rust programs.
+                   ## rust-progs 
+           ###Small collection of Rust programs.
 
 ### How to compile Rust?
 Assume you have rustc installed. Just go ahead type:
